@@ -392,6 +392,9 @@ nav ul li a:hover {
   justify-content: center;
   gap: 10px;
 }
+.pricing-card ul {
+  list-style: none;
+}
 .pricing-card p {
   height: 10%;
 }
